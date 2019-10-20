@@ -1,0 +1,11 @@
+.jumbotron {
+  padding: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: bisque;
+  border-bottom: 8px solid orange;
+  border-top: 8px solid orange;
+  font-family: 'Acme', sans-serif;
+  font-size: 25px;
+  color: orangered;
+}

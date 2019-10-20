@@ -1,0 +1,8 @@
+.title {
+  font-family: 'Acme', sans-serif;
+  font-size: 25px;
+  color: #a54403;
+}
+.card-header {
+  background-color: bisque;
+}
